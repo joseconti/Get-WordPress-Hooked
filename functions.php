@@ -567,8 +567,9 @@ function imprime_hooks(){
 	global $wp_filter;
 	foreach( $GLOBALS['hooks'] as $hook ){
 		echo '<h1>' . $hook . '</h1>';
+		echo "<pre>";
 		var_dump( $wp_filter[$hook] );
-		echo '<br />';
+		echo "</pre><br>";
 
 	}
 }
