@@ -1702,7 +1702,7 @@ function imprime_filters(){
 	}
 }
 function imprime_hooks_shotcode( $atts ){
-	echo imprime_filters();
+	echo imprime_hooks();
 }
 function imprime_filters_shotcode( $atts ){
 	echo imprime_filters();
