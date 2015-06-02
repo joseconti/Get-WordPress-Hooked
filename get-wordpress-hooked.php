@@ -1,11 +1,11 @@
 <?php
     /**
      * Plugin Name: Lija WP
-     * Plugin URI: http://dariobf.com
+     * Plugin URI: https://github.com/joseconti/Get-WordPress-Hooked
      * Description: Optimizing WordPress Hooks, the easy way.
      * Version: 1.0.0
      * Author: DarioBF and Jose Conti
-     * Author URI: http://dariobf.com http://joseconti.com
+     * Author URI: https://github.com/joseconti/Get-WordPress-Hooked
      * License: GPL2
      */
 
